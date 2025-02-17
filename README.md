@@ -15,3 +15,4 @@ In this project, I applied the following Excel functions and tools to analyze th
 - **IF** 🧮: Applied conditional logic to classify data (e.g., high/low sales).
 - **Pivot Charts** 📊: Created pivot charts to visually analyze trends and comparisons.
 
+![image](https://github.com/user-attachments/assets/04351d11-ac13-429a-9190-56018caf0457)
